@@ -7,5 +7,5 @@ Links to resources, especially for Python
 
 [Alexa APIs for Python (ask-sdk-model)](https://github.com/alexa/alexa-apis-for-python)
 
-[Cakewalk in Python)](https://github.com/frivas/skill-sample-python-cakewalk/blob/master/index.py)
+[Cakewalk in Python](https://github.com/frivas/skill-sample-python-cakewalk/blob/master/index.py)
 
