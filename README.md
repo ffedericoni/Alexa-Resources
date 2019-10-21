@@ -10,3 +10,5 @@ Links to resources, especially for Python
 [Cakewalk in Python](https://github.com/frivas/skill-sample-python-cakewalk/blob/master/index.py)
 
 [Alexa Blogs](https://developer.amazon.com/it/blogs/alexa/)
+
+[Petmatch skill in Python](https://github.com/alexa/skill-sample-python-petmatch): interesting for Dialog directives
